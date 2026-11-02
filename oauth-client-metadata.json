@@ -1,0 +1,18 @@
+{
+  "client_id": "https://jcwiart.github.io/mastoblue-oauth/oauth-client-metadata.json",
+  "client_name": "MastoBlue & Co.",
+  "application_type": "native",
+  "grant_types": [
+    "authorization_code",
+    "refresh_token"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "redirect_uris": [
+    "io.github.jcwiart:/mastoblue/oauth/callback"
+  ],
+  "scope": "atproto",
+  "token_endpoint_auth_method": "none",
+  "dpop_bound_access_tokens": true
+}
