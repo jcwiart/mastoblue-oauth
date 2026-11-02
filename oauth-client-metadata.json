@@ -12,7 +12,7 @@
   "redirect_uris": [
     "io.github.jcwiart:/mastoblue/oauth/callback"
   ],
-  "scope": "atproto",
+  "scope": "atproto rpc:app.bsky.feed.getTimeline?aud=did:web:api.bsky.app%23bsky_appview",
   "token_endpoint_auth_method": "none",
   "dpop_bound_access_tokens": true
 }
