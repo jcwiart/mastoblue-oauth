@@ -1,6 +1,6 @@
 {
   "client_id": "https://jcwiart.github.io/mastoblue-oauth/oauth-client-metadata.json",
-  "client_name": "MastoBlue & Co.",
+  "client_name": "Broadtoast",
   "application_type": "native",
   "grant_types": [
     "authorization_code",
