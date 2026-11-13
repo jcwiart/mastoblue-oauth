@@ -12,7 +12,7 @@
   "redirect_uris": [
     "io.github.jcwiart:/mastoblue/oauth/callback"
   ],
-  "scope": "atproto rpc:app.bsky.feed.getTimeline?aud=did:web:api.bsky.app%23bsky_appview repo:app.bsky.feed.like?action=create&action=delete repo:app.bsky.feed.repost?action=create&action=delete repo:app.bsky.feed.post?action=create rpc:app.bsky.bookmark.getBookmarks?aud=did:web:api.bsky.app%23bsky_appview rpc:app.bsky.bookmark.createBookmark?aud=did:web:api.bsky.app%23bsky_appview rpc:app.bsky.bookmark.deleteBookmark?aud=did:web:api.bsky.app%23bsky_appview rpc:app.bsky.feed.getPosts?aud=did:web:api.bsky.app%23bsky_appview rpc:app.bsky.feed.getPostThread?aud=did:web:api.bsky.app%23bsky_appview rpc:app.bsky.actor.getProfile?aud=did:web:api.bsky.app%23bsky_appview repo:app.bsky.graph.follow?action=create&action=delete",
+  "scope": "atproto rpc:app.bsky.feed.getTimeline?aud=did:web:api.bsky.app%23bsky_appview repo:app.bsky.feed.like?action=create&action=delete repo:app.bsky.feed.repost?action=create&action=delete repo:app.bsky.feed.post?action=create rpc:app.bsky.bookmark.getBookmarks?aud=did:web:api.bsky.app%23bsky_appview rpc:app.bsky.bookmark.createBookmark?aud=did:web:api.bsky.app%23bsky_appview rpc:app.bsky.bookmark.deleteBookmark?aud=did:web:api.bsky.app%23bsky_appview rpc:app.bsky.feed.getPosts?aud=did:web:api.bsky.app%23bsky_appview rpc:app.bsky.feed.getPostThread?aud=did:web:api.bsky.app%23bsky_appview rpc:app.bsky.actor.getProfile?aud=did:web:api.bsky.app%23bsky_appview repo:app.bsky.graph.follow?action=create&action=delete blob:image/*",
   "token_endpoint_auth_method": "none",
   "dpop_bound_access_tokens": true
 }
